@@ -1,5 +1,5 @@
 # Chat-Assistant-for-SQLite-Database
-# Steps to Run the Project Locally
+### Steps to Run the Project Locally
 
 # Prerequisites
     1. Python 3.x installed
